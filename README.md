@@ -1,3 +1,5 @@
+# NOT WORKING YET!!!!!!! DON'T USE IT, YOU WILL NOT BE HAPPY
+
 # ESP32-S2/S3 Joystick Library
 
 ##### based on Matthew Heironimus great Arduino Joystick lirary 
